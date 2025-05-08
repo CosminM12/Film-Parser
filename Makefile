@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -g
-SRC = main.c
+SRC = main.c Movies.c
 OBJ = $(SRC:.c=.o)
 OUT = program
 
